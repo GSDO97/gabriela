@@ -189,4 +189,14 @@ body{
     margin-left: 80px;
     font-size: large;
     color: black;
+
+}
+.portifolio{
+    grid-column: 10/11;
+    grid-row: 6;
+    margin-top: -80px;
+    font-size: large;
+    color: black;
+    margin-left: -50px;
+
 }
